@@ -23,13 +23,6 @@ import controller.PersonController;
 
 public class Dialog {
 	
-	private Shell dialog;
-	private PersonController pc;
-	private Person person;
-	private Text fNameTF;
-	private Text lNameTF;
-	private Text weightTF;
-	private Text heightTF;
 	
 	private Text bYearTF;
 	private Text bMonthTF;
